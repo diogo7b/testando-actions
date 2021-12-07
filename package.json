@@ -4,7 +4,8 @@
   "description": "apenas para testar o github actions",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 0"
+    "test": "echo \"Error: no test specified\" && exit 0",
+    "dev": "node index.js"
   },
   "repository": {
     "type": "git",
